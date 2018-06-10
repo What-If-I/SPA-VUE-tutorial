@@ -1,0 +1,10 @@
+__pycache__/
+*$py.class
+dist/
+lib/
+*.log
+.venv
+.gitignore
+.idea/
+flask-vue-crud/node_modules/
+flask-vue-crud/client/node_modules/
